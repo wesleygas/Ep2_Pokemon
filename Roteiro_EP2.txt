@@ -46,7 +46,7 @@ Nidoqueen = Merkelqueen
 
 Psyduck = Skafduck, Paulo Squack 
 Golduck = O Pato, MBLduck
-
+	Specs:  - Nunca gasta poção, pq ele não vai pagar o pato
 Poochyiena = Putinhena
 Mightyiena = 
 
