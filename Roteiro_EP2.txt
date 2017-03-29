@@ -1,0 +1,51 @@
+Bulbasaur = Dilmasauro
+Ivysaur = Leninsaur
+Venusaur = 
+
+Squirtle = 
+Wartortle = 
+Blastoise = 
+
+Charmander = Bixander, 
+Charmeleon = Charmhilton
+Charizard = Ayreszard
+
+Hitmonlee = Impeachmonlee
+Hitmontop = Impeachmontop
+Hitmonchan = Impeachmonchan
+Tyrogue = 
+
+Cyndaquil = 
+Quilava = 
+Typhlosion = 
+
+Ratata = Nestor Petralhadora
+Raticate = 
+
+Skarmory = Escárnio, 
+
+Caterpie = 
+Metapod = 
+Butterfree = Manteiga Livre, 
+
+Torchic = 
+Combusken = 
+Blaziken = 
+
+Dratini = Bolsomini
+Dragonair = Bolsonair
+Dragonite = Bolsomight
+
+Pidgey = 
+Pidgeotto = 
+Pidgeot = 
+
+Nidoran F = Merkelran
+Nidorina = Merkelrina
+Nidoqueen = Merkelqueen 
+
+Psyduck = Skafduck, Paulo Squack 
+Golduck = O Pato
+
+Poochyiena = Putinhena
+Mightyiena = 
