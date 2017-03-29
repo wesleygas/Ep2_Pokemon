@@ -1,6 +1,7 @@
 Bulbasaur = Dilmasauro
 Ivysaur = Leninsaur
 Venusaur = Marx-o-saur
+	Specs: Doa o próprio item pra quem vai substituí-lo
 
 Squirtle = Escroto
 Wartortle = Wartorto
@@ -28,9 +29,9 @@ Caterpie =
 Metapod = 
 Butterfree = Manteiga Livre, 
 
-Torchic = 
-Combusken = 
-Blaziken = 
+Torchic = Tochinha
+Combusken = Combusina
+Blaziken = Brasilia
 
 Dratini = Bolsomini
 Dragonair = Bolsonair
