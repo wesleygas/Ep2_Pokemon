@@ -1,9 +1,9 @@
 Bulbasaur = Dilmasauro
 Ivysaur = Leninsaur
-Venusaur = 
+Venusaur = Marx-o-saur
 
-Squirtle = 
-Wartortle = 
+Squirtle = Escroto
+Wartortle = Wartorto
 Blastoise = 
 
 Charmander = Bixander, 
@@ -19,7 +19,7 @@ Cyndaquil =
 Quilava = 
 Typhlosion = 
 
-Ratata = Nestor Petralhadora
+Ratata = Nestor Petralhadora, Ratatráfico
 Raticate = 
 
 Skarmory = Escárnio, 
@@ -45,7 +45,80 @@ Nidorina = Merkelrina
 Nidoqueen = Merkelqueen 
 
 Psyduck = Skafduck, Paulo Squack 
-Golduck = O Pato
+Golduck = O Pato, MBLduck
 
 Poochyiena = Putinhena
 Mightyiena = 
+
+Seel = 
+Dewgong = 
+
+Electrike = Teslatrike
+Manectric = 
+
+Plusle = "A ideia da descoberta do núcleo e a 'bipolaridade'"
+Minun = 
+
+Ghastly = Vargastly
+Hunter = 
+Gengar = 
+
+Drowzee = Drowziu
+Hypno = Hypnela
+
+Exeggcute = 
+Exeggcutor = 
+
+Lapras = Lepras
+
+Magikarp = Magikratos, Manokarp
+Gyarados = Manoirados
+
+Mew = Neo (Matrix)
+Mewtwo = NeoDois
+
+Carvania = 
+Sharpedo = Sharpedro, Shapado, Sharkinado
+
+Totodile = Todos-os-Dados
+Croconaw = Criminal
+Feraligatr = Aligatorade
+
+Espeon = Espeon's Lulu, Lulu's Espeon
+
+Misdreavous = Misraveus
+
+Girafarig = Girafariz
+
+Wurmple = Rampa
+Silcoon = Siliconha
+Dustox = 
+
+Lunatone = Lulatone
+Sunrock = 
+
+Barboach = Barbocampos
+Whishcash = Whishcrash
+
+Tropius = Trumpius
+
+Cranidos = Crânios
+Rampardos = Retardados
+
+Cherubi = Chorume
+
+Beedrill = 
+
+Staravia = Lavavia
+Staraptor = Lavajaptor
+
+Finneon = Morfinneon
+Lumineon = Crackineon
+
+Probopass = Drop-the-Bass
+
+Snorlax = Skriorllex
+--------------------------------------------------------------------------------------------------------------------
+							Referências
+1-  "Quem nasceu pra Magikarp nunca vai ser Gyarados!"
+2- Rebeca teve aula com o Bernardinho
