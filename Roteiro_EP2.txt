@@ -1,3 +1,5 @@
+Chá de fita, Doce, LCD, droga, merda, Dólar na cueca, Thug Life, Turn down for what, FAZ O PULL
+
 Bulbasaur = Dilmasauro
 Ivysaur = Leninsaur
 Venusaur = Marx-o-saur
@@ -5,7 +7,7 @@ Venusaur = Marx-o-saur
 
 Squirtle = Escroto
 Wartortle = Wartorto
-Blastoise = 
+Blastoise = Blastranho
 
 Charmander = Bixander, 
 Charmeleon = Charmhilton
@@ -16,18 +18,19 @@ Hitmontop = Impeachmontop
 Hitmonchan = Impeachmonchan
 Tyrogue = 
 
-Cyndaquil = 
-Quilava = 
-Typhlosion = 
+Cyndaquil = CyndaBIRRL
+Quilava = QuiBORA
+Typhlosion = Explosão, cá bunda no chão
 
-Ratata = Nestor Petralhadora, Ratatráfico
-Raticate = 
+Raticleta = Pré evolução do Ratinete
+Ratata = Nestor Petralhadora, Ratatráfico, Ratinete
+Raticate = Ratiskate
 
 Skarmory = Escárnio, 
 
 Caterpie = 
-Metapod = 
-Butterfree = Manteiga Livre, 
+Metapod = Meterpode
+Butterfree = Manteiga Livre
 
 Torchic = Tochinha
 Combusken = Combusina
@@ -37,9 +40,9 @@ Dratini = Bolsomini
 Dragonair = Bolsonair
 Dragonite = Bolsomight
 
-Pidgey = 
-Pidgeotto = 
-Pidgeot = 
+Pidgey = Peidey
+Pidgeotto = Peidiotto
+Pidgeot = Peidot
 
 Nidoran F = Merkelran
 Nidorina = Merkelrina
@@ -47,15 +50,16 @@ Nidoqueen = Merkelqueen
 
 Psyduck = Skafduck, Paulo Squack 
 Golduck = O Pato, MBLduck
-	Specs:  - Nunca gasta poção, pq ele não vai pagar o pato
+	Specs:  Nunca gasta poção, pq ele não vai pagar o pato
+
 Poochyiena = Putinhena
 Mightyiena = 
 
-Seel = 
-Dewgong = 
+Seel = Selo
+Dewgong = Inmetro
 
 Electrike = Teslatrike
-Manectric = 
+Manectric = Thomactric
 
 Plusle = "A ideia da descoberta do núcleo e a 'bipolaridade'"
 Minun = 
@@ -78,12 +82,12 @@ Gyarados = Manoirados
 Mew = Neo (Matrix)
 Mewtwo = NeoDois
 
-Carvania = 
+Carvania = CarVânia
 Sharpedo = Sharpedro, Shapado, Sharkinado
 
 Totodile = Todos-os-Dados
 Croconaw = Criminal
-Feraligatr = Aligatorade
+Feraligatr = Aligatorade, Feralicate
 
 Espeon = Espeon's Lulu, Lulu's Espeon
 
@@ -91,7 +95,7 @@ Misdreavous = Misraveus
 
 Girafarig = Girafariz
 
-Wurmple = Rampa
+Wurmple = Rampou
 Silcoon = Siliconha
 Dustox = 
 
@@ -123,3 +127,5 @@ Snorlax = Skriorllex
 							Referências
 1-  "Quem nasceu pra Magikarp nunca vai ser Gyarados!"
 2- Rebeca teve aula com o Bernardinho
+3- "É hora de transmorfar!"
+4- Faz o pull
