@@ -310,6 +310,13 @@ Snorlax = Skrorllax
 1-  "Quem nasceu pra Magikarp nunca vai ser Gyarados!"
 2- Rebeca teve aula com o Bernardinho
 3- "É hora de transmorfar!"
+<<<<<<< HEAD
 4- Faz o pullllllllllll
 5- Gente, gente! Daniel paladino na minha frente!
 6- Estou sentindo uma treta!
+=======
+4- Faz o pull
+5- No mundo mágico de UM PAÍS DA EUROPA um usuário inavisado adentra no mundo inóspito de LIVRO DO ROSTO e encontra
+criaturas extremamente hostís e cheias de opiniões para dar
+6- 
+>>>>>>> f749924edf9c9908b6ef8aa4daa9e4130bf25c67
