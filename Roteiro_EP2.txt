@@ -8,41 +8,34 @@ Venusaur = Marx-o-saur
 Squirtle = Escroto
 Wartortle = Wartorto
 Blastoise = Blastranho
+	Specs: Te deixa incomodado.
 
 Charmander = Bixander, 
 Charmeleon = Charmhilton
 Charizard = Ayreszard
+	Specs: Quando invocado, print("Hello, world!")
 
 Hitmonlee = Impeachmonlee
 Hitmontop = Impeachmontop
 Hitmonchan = Impeachmonchan
-Tyrogue = 
+	Specs: Quando entra em campo, subtitui o Inspermon adversário
 
-Cyndaquil = CyndaBIRRL
-Quilava = QuiBORA
-Typhlosion = Explosão, cá bunda no chão
-
-Raticleta = Pré evolução do Ratinete
-Ratata = Nestor Petralhadora, Ratatráfico, Ratinete
+Rattiti = Ratibike
+Ratata = Ratinete
 Raticate = Ratiskate
+	Specs: 25, 50, 75% de chance a mais para tomar o 1o turno
 
-Skarmory = Escárnio, 
+Skarmory = Escárnio
+	Specs: Abaixa defesa após desferir um poema de escárnio
 
-Caterpie = 
+Caterpie = Carapinha
 Metapod = Meterpode
 Butterfree = Manteiga Livre
-
-Torchic = Tochinha
-Combusken = Combusina
-Blaziken = Brasilia
+	Specs: Textura: inflige dano extra ao receber dano
 
 Dratini = Bolsomini
 Dragonair = Bolsonair
 Dragonite = Bolsomight
-
-Pidgey = Peidey
-Pidgeotto = Peidiotto
-Pidgeot = Peidot
 
 Nidoran F = Merkelran
 Nidorina = Merkelrina
@@ -52,27 +45,18 @@ Psyduck = Skafduck, Paulo Squack
 Golduck = O Pato, MBLduck
 	Specs:  Nunca gasta poção, pq ele não vai pagar o pato
 
-Poochyiena = Putinhena
-Mightyiena = 
-
 Seel = Selo
 Dewgong = Inmetro
 
 Electrike = Teslatrike
 Manectric = Thomactric
 
-Plusle = "A ideia da descoberta do núcleo e a 'bipolaridade'"
-Minun = 
-
-Ghastly = Vargastly
-Hunter = 
-Gengar = 
+Plusle = Rutherford
+Minun = Thomson
+"A ideia da descoberta das cargas elétricas"
 
 Drowzee = Drowziu
 Hypno = Hypnela
-
-Exeggcute = 
-Exeggcutor = 
 
 Lapras = Lepras
 
@@ -83,27 +67,20 @@ Mew = Neo (Matrix)
 Mewtwo = NeoDois
 
 Carvania = CarVânia
-Sharpedo = Sharpedro, Shapado, Sharkinado
+Sharpedo = Sharkinado
 
 Totodile = Todos-os-Dados
 Croconaw = Criminal
 Feraligatr = Aligatorade, Feralicate
 
-Espeon = Espeon's Lulu, Lulu's Espeon
-
-Misdreavous = Misraveus
-
 Girafarig = Girafariz
 
 Wurmple = Rampou
 Silcoon = Siliconha
-Dustox = 
+Dustox = Detox
 
 Lunatone = Lulatone
-Sunrock = 
-
-Barboach = Barbocampos
-Whishcash = Whishcrash
+Sunrock = SenhorRock
 
 Tropius = Trumpius
 
@@ -111,8 +88,6 @@ Cranidos = Crânios
 Rampardos = Retardados
 
 Cherubi = Chorume
-
-Beedrill = 
 
 Staravia = Lavavia
 Staraptor = Lavajaptor
@@ -122,7 +97,7 @@ Lumineon = Crackineon
 
 Probopass = Drop-the-Bass
 
-Snorlax = Skrorllex
+Snorlax = Skrorllax
 --------------------------------------------------------------------------------------------------------------------
 							Referências
 1-  "Quem nasceu pra Magikarp nunca vai ser Gyarados!"
