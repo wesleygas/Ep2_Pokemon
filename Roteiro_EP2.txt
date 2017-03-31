@@ -1,124 +1,310 @@
 Chá de fita, Doce, LCD, droga, merda, Dólar na cueca, Thug Life, Turn down for what, FAZ O PULL
 
 Bulbasaur = Dilmasauro
+	HP
+	Attack
+	Defense
 Ivysaur = Leninsaur
+	HP
+	Attack
+	Defense
 Venusaur = Marx-o-saur
-	Specs: Doa o próprio item pra quem vai substituí-lo
+	HP
+	Attack
+	Defense
+		Specs: Doa o próprio item pra quem vai substituí-lo
 
 Squirtle = Escroto
+	HP
+	Attack
+	Defense
 Wartortle = Wartorto
+	HP
+	Attack
+	Defense
 Blastoise = Blastranho
-	Specs: Te deixa incomodado.
+	HP
+	Attack
+	Defense
+		Specs: Te deixa incomodado.
 
 Charmander = 
+	HP
+	Attack
+	Defense
 Charmeleon = Charmhilton
+	HP
+	Attack
+	Defense
 Charizard = Ayreszard
-	Specs: Quando invocado, print("Hello, world!")
+	HP
+	Attack
+	Defense
+		Specs: Quando invocado, print("Hello, world!")
 
 Hitmonlee = Impeachmonlee
+	HP
+	Attack
+	Defense
 Hitmontop = Impeachmontop
+	HP
+	Attack
+	Defense
 Hitmonchan = Impeachmonchan
-	Specs: Quando entra em campo, subtitui o Inspermon adversário
+	HP
+	Attack
+	Defense
+		Specs: Quando entra em campo, subtitui o Inspermon adversário
 
 Rattiti = Ratibike
+	HP
+	Attack
+	Defense
 Ratata = Ratinete
+	HP
+	Attack
+	Defense
 Raticate = Ratiskate
-	Specs: 25, 50, 75% de chance a mais de começar a batalha pelo seu turno, e de fugir dela.
+	HP
+	Attack
+	Defense
+		Specs: 25, 50, 75% de chance a mais de começar a batalha pelo seu turno, e de fugir dela.
 
 Skarmory = Escárnio
-	Specs: Abaixa defesa após desferir um poema de escárnio
+	HP
+	Attack
+	Defense
+		Specs: Abaixa defesa após desferir um poema de escárnio
 
 Caterpie = Carapinha
+	HP
+	Attack
+	Defense
 Metapod = Meterpode
+	HP
+	Attack
+	Defense
 Butterfree = Manteiga Livre
-	Specs: 
+	HP
+	Attack
+	Defense
+		Specs: 
 
 Dratini = Bolsomini
+	HP
+	Attack
+	Defense
 Dragonair = Bolsonair
+	HP
+	Attack
+	Defense
 Dragonite = Bolsomight
-	Specs: Seu ataque nunca é diminuído
+	HP
+	Attack
+	Defense
+		Specs: Seu ataque nunca é diminuído
 	
 
 Nidoran F = Merkelran
+	HP
+	Attack
+	Defense
 Nidorina = Merkelrina
+	HP
+	Attack
+	Defense
 Nidoqueen = Merkelqueen 
-	Specs: Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print("Estou sentindo uma treta!")
+	HP
+	Attack
+	Defense
+		Specs: Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print("Estou sentindo uma treta!")
 	
 
 Psyduck = Skafduck, Paulo Squack 
+	HP
+	Attack
+	Defense
 Golduck = O Pato, MBLduck
-	Specs:  Nunca gasta poção, porque ele não vai pagar o pato
+	HP
+	Attack
+	Defense
+		Specs:  Nunca gasta poção, porque ele não vai pagar o pato
 
 Seel = Selo
+	HP
+	Attack
+	Defense
 Dewgong = Inmetro
-	Specs: 
+	HP
+	Attack
+	Defense
+		Specs: 
 
 Electrike = Teslatrike
+	HP
+	Attack
+	Defense
 Manectric = Thomactric
-	Specs: 
+	HP
+	Attack
+	Defense
+		Specs: 
 
 Plusle = Rutherford
+	HP
+	Attack
+	Defense
 Minun = Thomson
-"A ideia da descoberta das cargas elétricas"
+	HP
+	Attack
+	Defense
+	"A ideia da descoberta das cargas elétricas"
+		Specs:
 
 Drowzee = Drowziu
+	HP
+	Attack
+	Defense
 Hypno = Hypnela
-	Specs: 
+	HP
+	Attack
+	Defense
+		Specs: 
 
 Lapras = Lepras
-	Specs: Envenena o adversário ao contato
+	HP
+	Attack
+	Defense
+		Specs: Envenena o adversário ao contato
 
 Magikarp = Magikratos, Manokarp
+	HP
+	Attack
+	Defense
 Gyarados = Manoirados
-	Specs: "Nasci pronto." Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados.
+	HP
+	Attack
+	Defense
+		Specs: "Nasci pronto." Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados.
 
 Mew = Neo (Matrix)
+	HP
+	Attack
+	Defense
 Mewtwo = NeoDois
-	Specs: "Acordado". NeoDois não voltará para a Matrix.
+	HP
+	Attack
+	Defense
+		Specs: "Acordado". NeoDois não voltará para a Matrix.
 
 Carvania = CarVânia
+	HP
+	Attack
+	Defense
 Sharpedo = Sharkinado
-	Specs: 
+	HP
+	Attack
+	Defense
+		Specs: 
 
 Totodile = Todos-os-Dados
+	HP
+	Attack
+	Defense
 Croconaw = Criminal
+	HP
+	Attack
+	Defense
 Feraligatr = Feralicate
-	Specs:" 
+	HP
+	Attack
+	Defense
+		Specs:
 
 Girafarig = Girafariz
+	HP
+	Attack
+	Defense
+		Specs:
 
 Wurmple = Rampou
+	HP
+	Attack
+	Defense
 Silcoon = Siliconha
+	HP
+	Attack
+	Defense
 Dustox = Detox
-	Specs: "Re-hab": Tem chance de se recuperar de um envenenamento a cada turno.
+	HP
+	Attack
+	Defense
+		Specs: "Re-hab": Tem chance de se recuperar de um envenenamento a cada turno.
 
 Lunatone = Lulatone
+	HP
+	Attack
+	Defense
 Sunrock = SenhorRock
-	Specs: "Coração de pedra": não morrem com um só golpe.
+	HP
+	Attack
+	Defense
+		Specs: "Coração de pedra": não morrem com um só golpe.
 
 Tropius = Trumpius
-	Specs: Põe uma Magic Wall.
-	Specs: Nega as mudanças de status no inimigo.
+	HP
+	Attack
+	Defense
+		Specs: Põe uma Magic Wall.
+		Specs: Nega as mudanças de status no inimigo.
 
 Cranidos = Crânios
+	HP
+	Attack
+	Defense
 Rampardos = Retardados
-	Specs: Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque.
+	HP
+	Attack
+	Defense
+		Specs: Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque.
 
 Cherubi = Chorume
-	Specs: Recebe dano reduzido após determinada procentagem de HP.
+	HP
+	Attack
+	Defense
+		Specs: Recebe dano reduzido após determinada procentagem de HP.
 
 Staravia = Lavavia
+	HP
+	Attack
+	Defense
 Staraptor = Lavajaptor
-	Specs: 
+	HP
+	Attack
+	Defense
+		Specs: 
 
 Finneon = Morfinneon
+	HP
+	Attack
+	Defense
 Lumineon = Crackineon
-	Specs: "Pro-erd": Tem chance de dizer não à danos.
+	HP
+	Attack
+	Defense
+		Specs: "Pro-erd": Tem chance de dizer não à danos.
 
 Probopass = Drop-the-Bass
-	Specs: "Drop the bass". O Reassamon 
+	HP
+	Attack
+	Defense
+		Specs: "Drop the bass". O Reassamon 
 
 Snorlax = Skrorllax
+	HP
+	Attack
+	Defense
+		Specs:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 		Referências
 1-  "Quem nasceu pra Magikarp nunca vai ser Gyarados!"
