@@ -1,99 +1,99 @@
 Chá de fita, Doce, LCD, droga, merda, Dólar na cueca, Thug Life, Turn down for what, FAZ O PULL
 
 Bulbasaur = Dilmasauro
-	HP
-	Attack
-	Defense
+	HP	45
+	Attack	49
+	Defense	49
 Ivysaur = Leninsaur
-	HP
-	Attack
-	Defense
+	HP	60
+	Attack	62
+	Defense	63
 Venusaur = Marx-o-saur
-	HP
-	Attack
-	Defense
+	HP	80
+	Attack	82
+	Defense	83
 		Specs: Doa o próprio item pra quem vai substituí-lo
 
-Squirtle = Escroto
-	HP
-	Attack
-	Defense
-Wartortle = Wartorto
-	HP
-	Attack
-	Defense
-Blastoise = Blastranho
-	HP
-	Attack
-	Defense
-		Specs: Te deixa incomodado.
-
-Charmander = 
-	HP
-	Attack
-	Defense
+Charmander = Chavandoo
+	HP	39
+	Attack	52
+	Defense	43
 Charmeleon = Charmhilton
-	HP
-	Attack
-	Defense
+	HP	58	
+	Attack	64
+	Defense	58
 Charizard = Ayreszard
-	HP
-	Attack
-	Defense
+	HP	78
+	Attack	84
+	Defense	78
 		Specs: Quando invocado, print("Hello, world!")
 
+Squirtle = Escroto
+	HP	44
+	Attack	48
+	Defense	65
+Wartortle = Wartorto
+	HP	59
+	Attack	63
+	Defense	80
+Blastoise = Blastranho
+	HP	79	
+	Attack	83
+	Defense	100
+		Specs: Te deixa incomodado.
+
 Hitmonlee = Impeachmonlee
-	HP
-	Attack
-	Defense
-Hitmontop = Impeachmontop
-	HP
-	Attack
-	Defense
+	HP	50
+	Attack	120
+	Defense	53
 Hitmonchan = Impeachmonchan
-	HP
-	Attack
-	Defense
+	HP	50
+	Attack	105
+	Defense	79
+Hitmontop = Impeachmontop
+	HP	50
+	Attack	95
+	Defense	95
 		Specs: Quando entra em campo, subtitui o Inspermon adversário
 
-Rattiti = Ratibike
-	HP
-	Attack
-	Defense
-Ratata = Ratinete
-	HP
-	Attack
-	Defense
+Rattiti (Com os atributos base de Ratata)= Ratibike
+	HP	30
+	Attack	56
+	Defense	35
+Ratata (Atributos criados) = Ratinete
+	HP	43
+	Attack	66
+	Defense	47
 Raticate = Ratiskate
-	HP
-	Attack
-	Defense
-		Specs: 25, 50, 75% de chance a mais de começar a batalha pelo seu turno, e de fugir dela.
+	HP	55
+	Attack	81
+	Defense	60
+		Specs: 35% de chance a mais de começar a batalha pelo seu turno, e de fugir dela.
 
 Skarmory = Escárnio
-	HP
-	Attack
-	Defense
+	HP	65
+	Attack	80
+	Defense	140
 		Specs: Abaixa defesa após desferir um poema de escárnio
 
 Caterpie = Carapinha
-	HP
-	Attack
-	Defense
+	HP	45
+	Attack	30
+	Defense	35
 Metapod = Meterpode
-	HP
-	Attack
-	Defense
+	HP	50
+	Attack	20
+	Defense	55
 Butterfree = Manteiga Livre
-	HP
-	Attack
-	Defense
+	HP	60
+	Attack	45
+	Defense	50
 		Specs: 
 
 Dratini = Bolsomini
-	HP
-	Attack
-	Defense
+	HP	41
+	Attack	64
+	Defense	
 Dragonair = Bolsonair
 	HP
 	Attack
