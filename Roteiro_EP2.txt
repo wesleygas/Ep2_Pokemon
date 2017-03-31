@@ -10,7 +10,7 @@ Wartortle = Wartorto
 Blastoise = Blastranho
 	Specs: Te deixa incomodado.
 
-Charmander = Bixander, 
+Charmander = 
 Charmeleon = Charmhilton
 Charizard = Ayreszard
 	Specs: Quando invocado, print("Hello, world!")
@@ -23,7 +23,7 @@ Hitmonchan = Impeachmonchan
 Rattiti = Ratibike
 Ratata = Ratinete
 Raticate = Ratiskate
-	Specs: 25, 50, 75% de chance a mais para tomar o 1o turno
+	Specs: 25, 50, 75% de chance a mais de começar a batalha pelo seu turno, e de fugir dela.
 
 Skarmory = Escárnio
 	Specs: Abaixa defesa após desferir um poema de escárnio
@@ -31,25 +31,31 @@ Skarmory = Escárnio
 Caterpie = Carapinha
 Metapod = Meterpode
 Butterfree = Manteiga Livre
-	Specs: Textura: inflige dano extra ao receber dano
+	Specs: 
 
 Dratini = Bolsomini
 Dragonair = Bolsonair
 Dragonite = Bolsomight
+	Specs: Seu ataque nunca é diminuído
+	
 
 Nidoran F = Merkelran
 Nidorina = Merkelrina
 Nidoqueen = Merkelqueen 
+	Specs: Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print("Estou sentindo uma treta!")
+	
 
 Psyduck = Skafduck, Paulo Squack 
 Golduck = O Pato, MBLduck
-	Specs:  Nunca gasta poção, pq ele não vai pagar o pato
+	Specs:  Nunca gasta poção, porque ele não vai pagar o pato
 
 Seel = Selo
 Dewgong = Inmetro
+	Specs: 
 
 Electrike = Teslatrike
 Manectric = Thomactric
+	Specs: 
 
 Plusle = Rutherford
 Minun = Thomson
@@ -57,50 +63,67 @@ Minun = Thomson
 
 Drowzee = Drowziu
 Hypno = Hypnela
+	Specs: 
 
 Lapras = Lepras
+	Specs: Envenena o adversário ao contato
 
 Magikarp = Magikratos, Manokarp
 Gyarados = Manoirados
+	Specs: "Nasci pronto." Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados.
 
 Mew = Neo (Matrix)
 Mewtwo = NeoDois
+	Specs: "Acordado". NeoDois não voltará para a Matrix.
 
 Carvania = CarVânia
 Sharpedo = Sharkinado
+	Specs: 
 
 Totodile = Todos-os-Dados
 Croconaw = Criminal
-Feraligatr = Aligatorade, Feralicate
+Feraligatr = Feralicate
+	Specs:" 
 
 Girafarig = Girafariz
 
 Wurmple = Rampou
 Silcoon = Siliconha
 Dustox = Detox
+	Specs: "Re-hab": Tem chance de se recuperar de um envenenamento a cada turno.
 
 Lunatone = Lulatone
 Sunrock = SenhorRock
+	Specs: "Coração de pedra": não morrem com um só golpe.
 
 Tropius = Trumpius
+	Specs: Põe uma Magic Wall.
+	Specs: Nega as mudanças de status no inimigo.
 
 Cranidos = Crânios
 Rampardos = Retardados
+	Specs: Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque.
 
 Cherubi = Chorume
+	Specs: Recebe dano reduzido após determinada procentagem de HP.
 
 Staravia = Lavavia
 Staraptor = Lavajaptor
+	Specs: 
 
 Finneon = Morfinneon
 Lumineon = Crackineon
+	Specs: "Pro-erd": Tem chance de dizer não à danos.
 
 Probopass = Drop-the-Bass
+	Specs: "Drop the bass". O Reassamon 
 
 Snorlax = Skrorllax
---------------------------------------------------------------------------------------------------------------------
-							Referências
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+		Referências
 1-  "Quem nasceu pra Magikarp nunca vai ser Gyarados!"
 2- Rebeca teve aula com o Bernardinho
 3- "É hora de transmorfar!"
-4- Faz o pull
+4- Faz o pullllllllllll
+5- Gente, gente! Daniel paladino na minha frente!
+6- Estou sentindo uma treta!
