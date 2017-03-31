@@ -7,59 +7,83 @@
 ##	}
 [
         {
-            "nome" : "Dilmasauro",
-            "HP" :	45,
-            "Attack" :	49,
-            "Defense" :	49,
+                "nome" :        "Dilmasauro",
+                "HP" :	        45,
+                "Attack" :	49,
+                "Defense" :	49,
+		"Specs" :       "Doa o próprio item pra quem vai substituí-lo",
         }
         {
-            "nome" : "Leninsaur",
-            "HP" : 	60,
-            "Attack" :	62,
-            "Defense" :	63,
-Venusaur = Marx-o-saur
-	HP	80
-	Attack	82
-	Defense	83
-		Specs: Doa o próprio item pra quem vai substituí-lo
+                "nome" :        "Leninsaur",
+                "HP" : 	        60,
+                "Attack" :	62,
+                "Defense" :	63,
+		"Specs" :       "Doa o próprio item pra quem vai substituí-lo", 
+        }
+        {
+                "nome":         "Marx-o-saur",
+                "HP" : 	        80,
+                "Attack" :      82,
+                "Defense" :	83,
+		"Specs" :       "Doa o próprio item pra quem vai substituí-lo",
+        
+        }
+        {
+                "nome" :        "Chavandoo",
+                "HP" :	        39,
+                "Attack":	52,
+                "Defense" :	43,
+                "Specs":        "Quando invocado, print Hello, world!",
+        }
+        {
+                "nome" :        "Charmhilton",
+                "HP" : 	        58,
+                "Attack" :	64,
+                "Defense" :	58,
+                "Specs" : "Quando invocado, print Hello, world!"
+        }
+        {
+                "nome" :        "Ayreszard",
+                "HP" : 	        78,
+                "Attack" :	84,
+                "Defense" :     78,
+		"Specs":        "Quando invocado, print Hello, world!"
+        }
 
-Charmander = Chavandoo
-	HP	39
-	Attack	52
-	Defense	43
-Charmeleon = Charmhilton
-	HP	58	
-	Attack	64
-	Defense	58
-Charizard = Ayreszard
-	HP	78
-	Attack	84
-	Defense	78
-		Specs: Quando invocado, print("Hello, world!")
-
-Squirtle = Escroto
-	HP	44
-	Attack	48
-	Defense	65
-Wartortle = Wartorto
-	HP	59
-	Attack	63
-	Defense	80
-Blastoise = Blastranho
-	HP	79	
-	Attack	83
-	Defense	100
-		Specs: Te deixa incomodado.
-
-Hitmonlee = Impeachmonlee
-	HP	50
-	Attack	120
-	Defense	53
-Hitmonchan = Impeachmonchan
-	HP	50
-	Attack	105
-	Defense	79
-Hitmontop = Impeachmontop
+        {
+                "nome" :        "Escroto",
+                "HP" : 	        "44",
+                "Attack" :	48,
+                "Defense" :	65,
+                "Specs" :       "Te deixa incomodado",
+        }
+        {
+                "nome" :        "Wartorto"
+                "HP" :  	59,
+                "Attack" : 	63,
+                "Defense" : 	80,
+        }
+        {
+                "nome" :        "Blastranho",
+                "HP" : 	        79,	
+                "Attack" :	83,
+                "Defense" :	100,
+		"Specs" :       "Te deixa incomodado",
+        }
+        {
+                "nome" :        "Impeachmonlee",
+                "HP" : 	        50,
+                "Attack":	120,
+                "Defense":	53,
+        }
+        {
+                "nome" :        "Impeachmonchan"
+                "HP" :  	50,
+                "Attack" :	105,
+                "Defense" : 	79,
+        }
+        {
+                "nome" : "Impeachmontop"
 	HP	50
 	Attack	95
 	Defense	95
