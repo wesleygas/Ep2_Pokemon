@@ -1,4 +1,4 @@
-##[                 ETICA É O CONTRATO SOCIAL. TODO PSICOPATA TEM A SUA ETICA.
+##[                 ETICA É O CONTRATO SOCIAL. TODO PSICÓTICO TEM A SUA ETICA.
 ##                  DECIDIR O QUERO, DEVO, E POSSO, snedo esses dicidos através do viés social
 ##                  AMORALIDADE = INCAPAZ DE DECIDIR. 3 y.o kid, people affected by alzheimer's syndrome
 ##                  
@@ -95,7 +95,7 @@
         },
         {
                 "nome" :        "Impeachmonchan"
-                "HP" :  	50,
+                "HP" :          50,
                 "Attack" :	105,
                 "Defense" : 	79,
                 "Specs" :       "Quando entra em campo, subtitui o Inspermon adversário"
@@ -367,69 +367,88 @@
 		"Specs": "Re-hab". "Tem chance de se recuperar de um envenenamento a cada turno."
         },
         {
-                "nome" :        "Lulatone"
-                "HP" :          
-	Attack
-	Defense
-Sunrock = SenhorRock
-	HP
-	Attack
-	Defense
-		Specs: "Coração de pedra": não morrem com um só golpe.
-
-Tropius = Trumpius
-	HP
-	Attack
-	Defense
-		Specs: Põe uma Magic Wall.
-		Specs: Nega as mudanças de status no inimigo.
-
-Cranidos = Crânios
-	HP
-	Attack
-	Defense
-Rampardos = Retardados
-	HP
-	Attack
-	Defense
-		Specs: Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque.
-
-Cherubi = Chorume
-	HP
-	Attack
-	Defense
-		Specs: Recebe dano reduzido após determinada procentagem de HP.
-
-Staravia = Lavavia
-	HP
-	Attack
-	Defense
-Staraptor = Lavajaptor
-	HP
-	Attack
-	Defense
-		Specs: 
-
-Finneon = Morfinneon
-	HP
-	Attack
-	Defense
-Lumineon = Crackineon
-	HP
-	Attack
-	Defense
-		Specs: "Pro-erd": Tem chance de dizer não à danos.
-
-Probopass = Drop-the-Bass
-	HP
-	Attack
-	Defense
-		Specs: "Drop the bass". O Reassamon 
-
-Snorlax = Skrorllax
-	HP
-	Attack
-	Defense
-		Specs:
+                "nome" :        "Lulatone",
+                "HP" :          70,
+                "Attack":       55,
+                "Defense" :     65,
+                "Specs": "Coração de pedra. não morre com um só golpe."
+        },
+        {
+                "nome":         "SenhorRock",
+                "HP" :          70,
+                "Attack" :      95,
+                "Defense" :     85,
+		"Specs": "Coração de pedra. não morre com um só golpe."
+        },
+        {
+                "name" :        "Trumpius",
+                "HP" :          99,
+                "Attack" :      68,
+                "Defense" :     83,
+		"Specs": "Põe uma Magic Wall. Nega as mudanças de status no inimigo."
+        },
+        {
+                "nome" :        "Crânios",
+                "HP" :          67,
+                "Attack" :      125,
+                "Defense" :     40,
+                "Specs": "Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque."
+        },
+        {
+                "nome" :        "Retardados",
+                "HP" :          97,
+                "Attack" :      165,
+                "Defense" :     60,
+		"Specs": "Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque."
+        },
+        {
+                "noome" :       "Chorume",
+                "HP" :          45,
+                "Attack" :      35,
+                "Defense" :     45,
+		"Specs": "Recebe dano reduzido após determinada procentagem de HP."
+        },
+        {
+                "nome" :        "Lavavia",
+                "HP" :          55,
+                "Attack" :      75,
+                "Defense" :     50,
+                "Specs" : ""
+        },
+        {
+                "nome" :        "Lavajaptor",
+                "HP" :          85,
+                "Attack" :      120,
+                "Defense" :     70,
+		"Specs" : ""
+        },
+        {
+                "nome" :        "Morfinneon",
+                "HP" :          49,
+                "Attack" :      49,
+                "Defense" :     56,
+                "Specs": "Pro-erd. Tem chance de dizer não à danos."
+        },
+        {
+                "nome" :        "Crackineon",
+                "HP" :          69,
+                "Attack" :      69,
+                "Defense" :     76,
+		"Specs": "Pro-erd. Tem chance de dizer não à danos."
+        },
+        {
+                "nome" :        "Drop-the-Bass",
+                "HP" :          60,
+                "Attack" :      55,
+                "Defense" :     145,
+		"Specs":        "Drop the bass. O Reassamon faz o inimigo soltar seu helding item"
+        },
+        {
+                "nome" :        "Skrorllax",
+                "HP" :          160,
+                "Attack" :      110,
+                "Defense" :     65,
+		"Specs":        "Drop the bass. O Reassamon faz o inimigo soltar seu helding item"
+        }
 
 ]
