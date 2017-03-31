@@ -1,4 +1,7 @@
-##[
+##[                 ETICA É O CONTRATO SOCIAL. TODO PSICOPATA TEM A SUA ETICA.
+##                  DECIDIR O QUERO, DEVO, E POSSO, snedo esses dicidos através do viés social
+##                  AMORALIDADE = INCAPAZ DE DECIDIR. 3 y.o kid, people affected by alzheimer's syndrome
+##                  
 ##	{
 ##		"nome" : "picaxu",
 ##		"poder" : 20,
@@ -147,165 +150,225 @@
                 "Specs" : ""
         },
         {
-                "nome" : Butterfree = Manteiga Livre
-	HP	60
-	Attack	45
-	Defense	50
-		"Specs" : 
-
-Dratini = Bolsomini
-	HP	41
-	Attack	64
-	Defense	
-Dragonair = Bolsonair
-	HP
-	Attack
-	Defense
-Dragonite = Bolsomight
-	HP
-	Attack
-	Defense
-		Specs: Seu ataque nunca é diminuído
-	
-
-Nidoran F = Merkelran
-	HP
-	Attack
-	Defense
-Nidorina = Merkelrina
-	HP
-	Attack
-	Defense
-Nidoqueen = Merkelqueen 
-	HP
-	Attack
-	Defense
-		Specs: Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print("Estou sentindo uma treta!")
-	
-
-Psyduck = Skafduck, Paulo Squack 
-	HP
-	Attack
-	Defense
-Golduck = O Pato, MBLduck
-	HP
-	Attack
-	Defense
-		Specs:  Nunca gasta poção, porque ele não vai pagar o pato
-
-Seel = Selo
-	HP
-	Attack
-	Defense
-Dewgong = Inmetro
-	HP
-	Attack
-	Defense
-		Specs: 
-
-Electrike = Teslatrike
-	HP
-	Attack
-	Defense
-Manectric = Thomactric
-	HP
-	Attack
-	Defense
-		Specs: 
-
-Plusle = Rutherford
-	HP
-	Attack
-	Defense
-Minun = Thomson
-	HP
-	Attack
-	Defense
-	"A ideia da descoberta das cargas elétricas"
-		Specs:
-
-Drowzee = Drowziu
-	HP
-	Attack
-	Defense
-Hypno = Hypnela
-	HP
-	Attack
-	Defense
-		Specs: 
-
-Lapras = Lepras
-	HP
-	Attack
-	Defense
-		Specs: Envenena o adversário ao contato
-
-Magikarp = Magikratos, Manokarp
-	HP
-	Attack
-	Defense
-Gyarados = Manoirados
-	HP
-	Attack
-	Defense
-		Specs: "Nasci pronto." Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados.
-
-Mew = Neo (Matrix)
-	HP
-	Attack
-	Defense
-Mewtwo = NeoDois
-	HP
-	Attack
-	Defense
-		Specs: "Acordado". NeoDois não voltará para a Matrix.
-
-Carvania = CarVânia
-	HP
-	Attack
-	Defense
-Sharpedo = Sharkinado
-	HP
-	Attack
-	Defense
-		Specs: 
-
-Totodile = Todos-os-Dados
-	HP
-	Attack
-	Defense
-Croconaw = Criminal
-	HP
-	Attack
-	Defense
-Feraligatr = Feralicate
-	HP
-	Attack
-	Defense
-		Specs:
-
-Girafarig = Girafariz
-	HP
-	Attack
-	Defense
-		Specs:
-
-Wurmple = Rampou
-	HP
-	Attack
-	Defense
-Silcoon = Siliconha
-	HP
-	Attack
-	Defense
-Dustox = Detox
-	HP
-	Attack
-	Defense
-		Specs: "Re-hab": Tem chance de se recuperar de um envenenamento a cada turno.
-
-Lunatone = Lulatone
-	HP
+                "nome" :        "Butterfree = Manteiga Livre",
+                "HP" : 	        60,
+                "Attack" : 	45, 
+                "Defense" :	50,
+		"Specs" :
+        },
+        {
+                "nome" :        "Bolsomini",
+                "HP" : 	        41,
+                "Attack" :	64,
+                "Defense" :     
+                "Specs":        "Seu ataque nunca é diminuído"
+        },
+        {
+                "nome" :        "Bolsonair",
+                "HP" :          61,
+                "Attack" :      84,
+                "Defense" :     65,
+                "Specs":        "Seu ataque nunca é diminuído"
+        },
+        {
+                "nome" :        "Bolsomite",
+                "HP" :          91,
+                "Attack" :      134,
+                "Defense" :     95,
+                "Specs":        "Seu ataque nunca é diminuído"
+	},
+        {
+                "nome" :        "Merkelran",
+                "HP" :          55,
+                "Attack" :      47,
+                "Defense" :     52,
+                "Specs": "Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print(Estou sentindo uma treta!)"
+        },
+        {
+                "nome" :        "Merkelrina",
+                "HP" :          70,
+                "Attack" :      62,
+                "Defense" :     67,
+                "Specs": "Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print(Estou sentindo uma treta!)"
+        },
+        {
+                "nome" :        "Merkelqueen",
+                "HP" :          90,
+                "Attack" :      82,
+                "Defense" :     87, 
+		"Specs": "Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print(Estou sentindo uma treta!)"
+	},
+        {
+                "nome" :        "Skafduck",
+                "HP" :          50,
+                "Attack" :      52,
+                "Defense" :     48,
+        },
+        {
+                "nome" :        "O Pato",
+                "HP" :          80,
+                "Attack" :      82,
+                "Defense" :     78,
+                "Specs":        "Nunca gasta poção, porque ele não vai pagar o pato"
+        },
+        {
+                "nome" :        "Selo",
+                "HP" :          65,
+                "Attack" :      45,
+                "Defense" :     55,
+                "Specs" :       ""
+        },
+        {
+                "nome" :        "Inmetro",
+                "HP" :          90,
+                "Attack" :      70,
+                "Defense" :     80,
+		"Specs" :       "" 
+        },
+        {
+                "nome" :        "Teslatrike",
+                "HP" :          40,
+                "Attack" :      45,
+                "Defense" :     40,
+                "Specs" :       ""
+        },
+        {
+                "nome" :        "Thomactric",
+                "HP" :          70,
+                "Attack" :      75,
+                "Defense" :     60
+		"Specs" :       "" 
+        },
+        {
+                "nome" :        "Rutherford",
+                "HP" :          60,
+                "Attack" :      50,
+                "Defense" :     40,
+                "Specs" :       ""
+        },
+        }
+                "nome" :        "Thomson",
+                "HP" :          60,
+                "Attack" :      40,
+                "Defense" :     50,
+                #"A ideia da descoberta das cargas elétricas"
+		"Specs" :       ""
+        },
+        {
+                "nome" :        "Drowziu",
+                "HP" :          60,
+                "Attack" :      48,
+                "Defense" :     45,
+                "Specs" :       ""
+        },
+        {
+                "nome" :        "Hypnela",
+                "HP" :          85,
+                "Attack" :      73,
+                "Defense" :     70,
+                "Specs" :       ""
+        },
+        {
+                "nome" :        "Lepras",
+                "HP" :          130,
+                "Attack" :      85,
+                "Defense" :     80,
+		"Specs": "Envenena o adversário ao contato"
+        },
+        {
+                "nome" :        "Manokarp",
+                "HP" :          20,
+                "Attack" :      10,
+                "Defense" :     55,
+                "Specs": "Nasci pronto." "Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados."
+        },
+        {
+                "nome" :        "Manoirados",
+                "HP" :          95,
+                "Attack" :      125,
+                "Defense" :     79,
+		"Specs": "Nasci pronto." "Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados."
+        },
+        {
+                "nome" :        "Neo",
+                "HP" :          100,
+                "Attack" :      100,
+                "Defense" :     100,
+                "Specs": "Acordado". "NeoDois não voltará para a Matrix."
+        },
+        {
+                "nome" :        "NeoDois",
+                "HP" :          106,
+                "Attack" :      110,
+                "Defense" :     90,
+		"Specs": "Acordado". "NeoDois não voltará para a Matrix."
+        },
+        {
+                "nome" :        "CarVânia",
+                "HP" :          45,
+                "Attack" :      90,
+                "Defense" :     20,
+                "Specs":        ""
+        },
+        {
+                "nome" :        "Sharkinado",
+                "HP" :          70,
+                "Attack" :      120,
+                "Defense" :     40,
+		"Specs":        ""
+        },
+        {
+                "nome" :        "Todos-os-Dados",
+                "HP" :          50,
+                "Attack" :      65,
+                "Defense" :     64,
+                "Specs":        ""
+        },
+        {
+                "nome" :        "Criminal",
+                "HP" :          65,
+                "Attack" :      80,
+                "Defense" :     80,
+                "Specs":        ""
+        },
+        {
+                "nome" :        "Feralicate",
+                "HP" :          85,
+                "Attack" :      105,
+                "Defense" :     100,
+		"Specs" :       ""
+        },
+        {
+                "nome" :        "Girafariz",
+                "HP" :          70,
+                "Attack":       80,
+                "Defense":      65,
+		"Specs":          ""
+        },
+        {
+                "nome" :        "Rampou",
+                "HP" :          45,
+                "Attack" :      45,
+                "Defense" :     35,
+                "Specs": "Re-hab". "Tem chance de se recuperar de um envenenamento a cada turno."
+        },
+        {
+                "nome" :        "Casconha",
+                "HP" :          50,
+                "Attack" :      35,
+                "Defense" :     55,
+                "Specs": "Re-hab". "Tem chance de se recuperar de um envenenamento a cada turno."
+        },
+        {
+                "nome" :        "Detox",
+                "HP" :          60,
+                "Attack" :      50,
+                "Defense" :     70,
+		"Specs": "Re-hab". "Tem chance de se recuperar de um envenenamento a cada turno."
+        },
+        {
+                "nome" :        "Lulatone"
+                "HP" :          
 	Attack
 	Defense
 Sunrock = SenhorRock
