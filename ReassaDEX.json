@@ -20,7 +20,7 @@
 		"vida" : 300,
 		"defesa" : 10,
 		"Specs" :       ""
-	}
+	},
 
 
 	{
@@ -155,7 +155,7 @@
 		"vida" : 	        60,
 		"ataque" : 	45, 
 		"defesa" :	50,
-		"Specs" :
+		"Specs" : ""
 	},
 	{
 		"nome" :        "Bolsomini",
@@ -203,7 +203,8 @@
 		"nome" :        "Skafduck",
 		"vida" :          50,
 		"ataque" :      52,
-		"defesa" :     48,
+		"defesa" :    48,
+		"Specs": ""
 	},
 	{
 		"nome" :        "O Pato",
@@ -280,14 +281,14 @@
 		"vida" :          20,
 		"ataque" :      10,
 		"defesa" :     55,
-		"Specs": "Nasci pronto." "Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados."
+		"Specs": "Nasci pronto."
 	},
 	{
 		"nome" :        "Manoirados",
 		"vida" :          95,
 		"ataque" :      125,
 		"defesa" :     79,
-		"Specs": "Nasci pronto." "Enquanto magikarp, splash. Gyarados, ele ganha +x em um atributo randômico por ter virado Gyarados."
+		"Specs": "Nasci pronto."
 	},
 	{
 		"nome" :        "Neo",
@@ -371,7 +372,7 @@
 		"vida" :          70,
 		"ataque":       55,
 		"defesa" :     65,
-		"Specs & Coração de pedra. não morre com um só golpe."
+		"Specs":  "Coração de pedra: não morre com um só golpe."
 	},
 	{
 		"nome":         "SenhorRock",
