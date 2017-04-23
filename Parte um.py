@@ -10,26 +10,62 @@ def batalha(player, wild):
 	VidaWild = wild["vida"]
 	PoderWild = wild["poder"]
 	DefesaWild = wild["defesa"]
-	fugir = False
+	fugir = 0
 	opFugir = "x"
+	exp = ((VidaWild*PoderWild*DefesaWild)/(VidaJogador*PoderJogador*DefesaJogador))*10 #Clacula a experiência em jogo nesta rodada
+	dado = input("Escolha um número para jogar na sorte ou 'n' para cancelar: (digite 'wtf' para saber mais)")
+	if(dado == "wtf"):
+		print("O dado funciona assim: Você escolhe o número de lados do seu dado\
+		e, caso tire da metade para cima, seu ataque e vida serão multiplicados pelo valor\
+		que tirastes no dado. Mas, se for da metade para baixo, estes serão DIVIDIDOS pelo valor tirado")
+		dado = input("E aí, vai jogar ou 'n'? Qual o número? ")
+
+
+	if not dado == 'n':
+		dado = int(dado)
+		print("Hehehe, vamos lá então! Você escolheu um dado de {} faces".format(dado))
+		opFugir = "n"
+		sleep(1)
+		print("Sorteando",end = ' ')
+		for i in range(3):
+			print('.', end=' ')
+			sleep(1)
+		print('\n')
+		resultado = random.randint(0,abs(dado))
+		print("Você tirou o número {} !".format(resultado))
+		if(resultado > (abs(dado)/2)):
+			PoderJogador = PoderJogador * resultado
+			DefesaJogador = DefesaJogador * resultado
+			print("Seus novos atributos são: {0} de poder de ataque e {1} de defesa".format(PoderJogador,DefesaJogador))
+		elif(resultado < (abs(dado)/2)):
+			PoderJogador = PoderJogador / resultado
+			DefesaJogador = DefesaJogador / resultado
+			print("Seus novos atributos são: {0} de poder de ataque e {1} de defesa".format(PoderJogador,DefesaJogador))
+
+
 	if(PoderJogador < DefesaWild):
 		PoderJogador = 0
 		DefesaWild = 0
 	if(PoderWild < DefesaJogador):
 		PoderWild = 0
 		DefesaJogador = 0
+	print("Iniciando a batalha!\n")
+	sleep(1)
+
 
 	while(VidaJogador > 0 and VidaWild > 0 and fugir == 0):
 		VidaWild =  VidaWild - ( PoderJogador - DefesaWild )
 		if (VidaWild <= 0):
-			print("Parabéns, você saudou a mandioca!")
+			save[0]["xp"] += exp
+			print("Parabéns, você saudou a mandioca e ganhou {} de experiência!".format(exp))
 
 			return 1
 
 		VidaJogador = VidaJogador - (  PoderWild - DefesaJogador )
 
 		if (VidaJogador <= 0):
-			print("YOU HAVE FAILED THIS COUNTRY")
+			save[0]["xp"] -= exp
+			print("YOU HAVE FAILED THIS COUNTRY... Ps: E perdeu {} de experiência".format(exp))
 
 			return 0
 		
@@ -51,7 +87,8 @@ def batalha(player, wild):
 				break
 			else:
 				print("Opção inválida, tente novamente")
-		opFugir = "x"
+		if(dado == "n"): #Se a pessoa não utilizou o dado, renove a opção de fugir
+			opFugir = "x"
 
 
 with open('ReassaDEX.json') as arquivo: #Abre o banco de inspermons
