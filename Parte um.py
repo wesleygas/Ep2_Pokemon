@@ -12,6 +12,12 @@ def batalha(player, wild):
 	DefesaWild = wild["defesa"]
 	fugir = False
 	opFugir = "x"
+	if(PoderJogador < DefesaWild):
+		PoderJogador = 0
+		DefesaWild = 0
+	if(PoderWild < DefesaJogador):
+		PoderWild = 0
+		DefesaJogador = 0
 
 	while(VidaJogador > 0 and VidaWild > 0 and fugir == 0):
 		VidaWild =  VidaWild - ( PoderJogador - DefesaWild )
@@ -91,12 +97,32 @@ while True: #Rotina básica do Game
 		break
 	elif(action == "insperdex"): #Caso o jogador queira abrir a insperdex, abrir 
 		print("Abrindo a sua insperdex!")
+		sleep(1)
 		
+		if(len(save) >= 3):
+			for i in range(2, len(save)):
+				print(save[i])
+		else:
+			print("Você ainda não encontrou nenhum inspermon, vá batalhar seu preguiçoso!")
 
 
 	else:
-		print("Então bora batalhar!")
-		batalha(save[1],random.choice(inspermons))
+		print("Então bora batalhar!\n\n")
+		oponente = random.choice(inspermons)
+
+		if oponente in save:
+			print("Você encontrou {0}! Prepare-se para a batalha:\n".format(oponente["nome"]))
+			sleep(0.5)
+		
+		else:
+			print("Você encontrou {0} pela primeira vez. Adicionando {0} à sua insperdex!\n".format(oponente["nome"]))
+			sleep(0.5)
+			save.append(oponente)
+			print("Prepare-se para a batalha!\n")
+			sleep(0.5)
+
+
+		batalha(save[1],oponente)
 
 
 
