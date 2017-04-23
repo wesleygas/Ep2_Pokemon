@@ -48,20 +48,23 @@ def batalha(player, wild):
 		opFugir = "x"
 
 
-with open('ReassaDEX.json') as arquivo:
+with open('ReassaDEX.json') as arquivo: #Abre o banco de inspermons
 	inspermons = json.load(arquivo)
-with open('save.json') as arquivo:
+with open('save.json') as arquivo: #Abre o save 
 	save = json.load(arquivo)
 
-if(save[0]["primeira_jogada"] == 1):
+if(save[0]["primeira_jogada"] == 1): #Verifica se é a primeira vez do jogador e, se sim, abre a escolha do pokémon do player 
 	print("Escolha um dos reassamons para jogar com ou digite 'r' para selecionar randomicamente")
 	sleep(2)
-	for i in inspermons:
+	for i in inspermons: 
 		print(i['nome'])
 	escolha = input("\nDigite o nome do reassamon ou 'r' para selecionar aleatoriamente: ")
 
-	if(escolha == 'r'):
-		save.append(random.choice(inspermons))
+	if(escolha == 'r'): #Escolha randômica
+		a = random.choice(inspermons)
+		print("Ok, {} foi escolhido aleatoriamente, estes são os atributos:\n".format(a["nome"]))
+		print(a)
+		save.append(a)
 		save[0]["primeira_jogada"] = 0
 	else:
 
@@ -78,15 +81,15 @@ if(save[0]["primeira_jogada"] == 1):
 			save[0]["primeira_jogada"] = 0
 		
 	with open('save.json','w') as arquivo:
-		json.dump(save,arquivo)
+		json.dump(save,arquivo) 
 
-while True:
+while True: #Rotina básica do Game
 	action = input("Você quer 'passear', abrir a 'insperdex' ou 'dormir'? \n").lower()
 	if( "dormir" == action): #Condição inicial para começar o jogo: O jogador não quer dormir
 		print("Okay então. Sem mais aventuras por hoje :'( ")
 		print(". \n. \n.\n.\nZZZZzzzzzzzz'")
 		break
-	elif(action == "insperdex"):
+	elif(action == "insperdex"): #Caso o jogador queira abrir a insperdex, abrir 
 		print("Abrindo a sua insperdex!")
 		
 
@@ -97,6 +100,6 @@ while True:
 
 
 
-with open('save.json','w') as arquivo:
+with open('save.json','w') as arquivo: #Guarda o save
 	json.dump(save,arquivo)
 
