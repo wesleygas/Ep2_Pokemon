@@ -26,21 +26,21 @@
 	{
 		"nome" :    "Dilmasauro",
 		"vida" :	    45,
-		"ataque" :	49,
+		"poder" :	49,
 		"defesa" :	49,
 		"Specs" :   "Doa o próprio item pra quem vai substituí-lo"
 	},
 	{
 		"nome" :        "Leninsaur",
 		"vida" : 	        60,
-		"ataque" :	62,
+		"poder" :	62,
 		"defesa" :	63,
 		"Specs" :       "Doa o próprio item pra quem vai substituí-lo"
 	},
 	{
 		"nome":         "Marx-o-saur",
 		"vida" : 	        80,
-		"ataque" :      82,
+		"poder" :      82,
 		"defesa" :	83,
 		"Specs" :       "Doa o próprio item pra quem vai substituí-lo"
 		
@@ -48,406 +48,406 @@
 	{
 		"nome" :        "Chavandoo",
 		"vida" :	        39,
-		"ataque":	52,
+		"poder":	52,
 		"defesa" :	43,
 		"Specs":        "Quando invocado, print Hello, world!"
 	},
 	{
 		"nome" :        "Charmhilton",
 		"vida" : 	        58,
-		"ataque" :	64,
+		"poder" :	64,
 		"defesa" :	58,
 		"Specs" :       "Quando invocado, print Hello, world!"
 	},
 	{
 		"nome" :        "Ayreszard",
 		"vida" : 	        78,
-		"ataque" :	84,
+		"poder" :	84,
 		"defesa" :     78,
 		"Specs":        "Quando invocado, print Hello, world!"
 	},
 	{
 		"nome" :        "Escroto",
 		"vida" : 	        "44",
-		"ataque" :	48,
+		"poder" :	48,
 		"defesa" :	65,
 		"Specs" :       "Te deixa incomodado"
 	},
 	{
 		"nome" :        "Wartorto",
 		"vida" :  	59,
-		"ataque" : 	63,
+		"poder" : 	63,
 		"defesa" : 	80,
 		"Specs" :       "Te deixa incomodado"
 	},
 	{
 		"nome" :        "Blastranho",
 		"vida" : 	        79,	
-		"ataque" :	83,
+		"poder" :	83,
 		"defesa" :	100,
 		"Specs" :       "Te deixa incomodado"
 	},
 	{
 		"nome" :        "Impeachmonlee",
 		"vida" : 	        50,
-		"ataque":	120,
+		"poder":	120,
 		"defesa":	53,
 		"Specs" :       "Quando entra em campo, subtitui o Inspermon adversário"
 	},
 	{
 		"nome" :        "Impeachmonchan",
 		"vida" :          50,
-		"ataque" :	105,
+		"poder" :	105,
 		"defesa" : 	79,
 		"Specs" :       "Quando entra em campo, subtitui o Inspermon adversário"
 	},
 	{
 		"nome" :        "Impeachmontop",
 		"vida" :  	50,
-		"ataque" :	95,
+		"poder" :	95,
 		"defesa" :	95,
 		"Specs" :       "Quando entra em campo, subtitui o Inspermon adversário"
 	},
 	{
 		"nome" :        "Rattibike",
 		"vida" :  	30,
-		"ataque" :	56,
+		"poder" :	56,
 		"defesa" :	35,
 		"Specs": "35% de chance a mais de começar a batalha pelo seu turno, e de fugir dela."
 	},
 	{
 		"nome" :        "Ratinete",
 		"vida" : 	        43,
-		"ataque" :	66,
+		"poder" :	66,
 		"defesa" :	47,
 		"Specs": "35% de chance a mais de começar a batalha pelo seu turno, e de fugir dela."
 	},
 	{
 		"nome" :        "Ratiskate",
 		"vida" : 	        55,
-		"ataque":	81,
+		"poder":	81,
 		"defesa" : 	60,
 		"Specs": "35% de chance a mais de começar a batalha pelo seu turno, e de fugir dela."
 	},
 	{
 		"nome" :        "Escárnio",
 		"vida" : 	        65,
-		"ataque" :	80,
+		"poder" :	80,
 		"defesa" : 	140,
 		"Specs" :       "Abaixa defesa após desferir um poema de escárnio"
 	},
 	{
 		"nome" :        "Carapinha",
 		"vida" : 	        45,
-		"ataque" : 	30,
+		"poder" : 	30,
 		"defesa" : 	35,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Meterpode",
 		"vida" :	        50,
-		"ataque" :	20,
+		"poder" :	20,
 		"defesa" :	55,
 		"Specs" : ""
 	},
 	{
 		"nome" :        "Butterfree = Manteiga Livre",
 		"vida" : 	        60,
-		"ataque" : 	45, 
+		"poder" : 	45, 
 		"defesa" :	50,
 		"Specs" : ""
 	},
 	{
 		"nome" :        "Bolsomini",
 		"vida" : 	        41,
-		"ataque" :	64,
+		"poder" :	64,
 		"defesa" : 46,    
-		"Specs":        "Seu ataque nunca é diminuído"
+		"Specs":        "Seu poder nunca é diminuído"
 	},
 	{
 		"nome" :        "Bolsonair",
 		"vida" :          61,
-		"ataque" :      84,
+		"poder" :      84,
 		"defesa" :     65,
-		"Specs":        "Seu ataque nunca é diminuído"
+		"Specs":        "Seu poder nunca é diminuído"
 	},
 	{
 		"nome" :        "Bolsomite",
 		"vida" :          91,
-		"ataque" :      134,
+		"poder" :      134,
 		"defesa" :     95,
-		"Specs":        "Seu ataque nunca é diminuído"
+		"Specs":        "Seu poder nunca é diminuído"
 	},
 	{
 		"nome" :        "Merkelran",
 		"vida" :          55,
-		"ataque" :      47,
+		"poder" :      47,
 		"defesa" :     52,
 		"Specs": "Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print(Estou sentindo uma treta!)"
 	},
 	{
 				"nome" :        "Merkelrina",
 		"vida" :          70,
-		"ataque" :      62,
+		"poder" :      62,
 		"defesa" :     67,
 		"Specs": "Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print(Estou sentindo uma treta!)"
 	},
 	{
 		"nome" :        "Merkelqueen",
 		"vida" :          90,
-		"ataque" :      82,
+		"poder" :      82,
 		"defesa" :     87, 
 		"Specs": "Durante o turno inimigo, o Reassamon ganha um leque de opções, enquanto print(Estou sentindo uma treta!)"
 	},
 	{
 		"nome" :        "Skafduck",
 		"vida" :          50,
-		"ataque" :      52,
+		"poder" :      52,
 		"defesa" :    48,
 		"Specs": ""
 	},
 	{
 		"nome" :        "O Pato",
 		"vida" :          80,
-		"ataque" :      82,
+		"poder" :      82,
 		"defesa" :     78,
 		"Specs":        "Nunca gasta poção, porque ele não vai pagar o pato"
 	},
 	{
 		"nome" :        "Selo",
 		"vida" :          65,
-		"ataque" :      45,
+		"poder" :      45,
 		"defesa" :     55,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Inmetro",
 		"vida" :          90,
-		"ataque" :      70,
+		"poder" :      70,
 		"defesa" :     80,
 		"Specs" :       "" 
 	},
 	{
 		"nome" :        "Teslatrike",
 		"vida" :          40,
-		"ataque" :      45,
+		"poder" :      45,
 		"defesa" :     40,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Thomactric",
 		"vida" :          70,
-		"ataque" :      75,
+		"poder" :      75,
 		"defesa" :     60,
 		"Specs" :       "" 
 	},
 	{
 		"nome" :        "Rutherford",
 		"vida" :          60,
-		"ataque" :      50,
+		"poder" :      50,
 		"defesa" :     40,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Thomson",
 		"vida" :          60,
-		"ataque" :      40,
+		"poder" :      40,
 		"defesa" :     50,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Drowziu",
 		"vida" :          60,
-		"ataque" :      48,
+		"poder" :      48,
 		"defesa" :     45,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Hypnela",
 		"vida" :          85,
-		"ataque" :      73,
+		"poder" :      73,
 		"defesa" :     70,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Lepras",
 		"vida" :          130,
-		"ataque" :      85,
+		"poder" :      85,
 		"defesa" :     80,
 		"Specs": "Envenena o adversário ao contato"
 	},
 	{
 		"nome" :        "Manokarp",
 		"vida" :          20,
-		"ataque" :      10,
+		"poder" :      10,
 		"defesa" :     55,
 		"Specs": "Nasci pronto."
 	},
 	{
 		"nome" :        "Manoirados",
 		"vida" :          95,
-		"ataque" :      125,
+		"poder" :      125,
 		"defesa" :     79,
 		"Specs": "Nasci pronto."
 	},
 	{
 		"nome" :        "Neo",
 		"vida" :          100,
-		"ataque" :      100,
+		"poder" :      100,
 		"defesa" :     100,
 		"Specs": "Acordado & NeoDois não voltará para a Matrix."
 	},
 	{
 		"nome" :        "NeoDois",
 		"vida" :          106,
-		"ataque" :      110,
+		"poder" :      110,
 		"defesa" :     90,
 		"Specs": "Acordado & NeoDois não voltará para a Matrix."
 	},
 	{
 		"nome" :        "CarVânia",
 		"vida" :          45,
-		"ataque" :      90,
+		"poder" :      90,
 		"defesa" :     20,
 		"Specs":        ""
 	},
 	{
 		"nome" :        "Sharkinado",
 		"vida" :          70,
-		"ataque" :      120,
+		"poder" :      120,
 		"defesa" :     40,
 		"Specs":        ""
 	},
 	{
 		"nome" :        "Todos-os-Dados",
 		"vida" :          50,
-		"ataque" :      65,
+		"poder" :      65,
 		"defesa" :     64,
 		"Specs":        ""
 	},
 	{
 		"nome" :        "Criminal",
 		"vida" :          65,
-		"ataque" :      80,
+		"poder" :      80,
 		"defesa" :     80,
 		"Specs":        ""
 	},
 	{
 		"nome" :        "Feralicate",
 		"vida" :          85,
-		"ataque" :      105,
+		"poder" :      105,
 		"defesa" :     100,
 		"Specs" :       ""
 	},
 	{
 		"nome" :        "Girafariz",
 		"vida" :          70,
-		"ataque":       80,
+		"poder":       80,
 		"defesa":      65,
 		"Specs":          ""
 	},
 	{
 		"nome" :        "Rampou",
 		"vida" :          45,
-		"ataque" :      45,
+		"poder" :      45,
 		"defesa" :     35,
 		"Specs": "Re-hab &Tem chance de se recuperar de um envenenamento a cada turno."
 	},
 	{
 		"nome" :        "Casconha",
 		"vida" :          50,
-		"ataque" :      35,
+		"poder" :      35,
 		"defesa" :     55,
 		"Specs": "Re-hab & Tem chance de se recuperar de um envenenamento a cada turno."
 	},
 	{
 		"nome" :        "Detox",
 		"vida" :          60,
-		"ataque" :      50,
+		"poder" :      50,
 		"defesa" :     70,
 		"Specs": "Re-hab & Tem chance de se recuperar de um envenenamento a cada turno."
 	},
 	{
 		"nome" :        "Lulatone",
 		"vida" :          70,
-		"ataque":       55,
+		"poder":       55,
 		"defesa" :     65,
 		"Specs":  "Coração de pedra: não morre com um só golpe."
 	},
 	{
 		"nome":         "SenhorRock",
 		"vida" :          70,
-		"ataque" :      95,
+		"poder" :      95,
 		"defesa" :     85,
 		"Specs": "Coração de pedra. não morre com um só golpe."
 	},
 	{
-		"name" :        "Trumpius",
+		"nome" :        "Trumpius",
 		"vida" :          99,
-		"ataque" :      68,
+		"poder" :      68,
 		"defesa" :     83,
 		"Specs": "Põe uma Magic Wall. Nega as mudanças de status no inimigo."
 	},
 	{
 		"nome" :        "Crânios",
 		"vida" :          67,
-		"ataque" :      125,
+		"poder" :      125,
 		"defesa" :     40,
-		"Specs": "Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque."
+		"Specs": "Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do poder."
 	},
 	{
 		"nome" :        "Retardados",
 		"vida" :          97,
-		"ataque" :      165,
+		"poder" :      165,
 		"defesa" :     60,
-		"Specs": "Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do ataque."
+		"Specs": "Tem 20% de dano aumentado, mas x% de errá-lo, independentemente do poder."
 	},
 	{
 		"nome" :       "Chorume",
 		"vida" :          45,
-		"ataque" :      35,
+		"poder" :      35,
 		"defesa" :     45,
 		"Specs": "Recebe dano reduzido após determinada procentagem de vida."
 	},
 	{
 		"nome" :        "Lavavia",
 		"vida" :          55,
-		"ataque" :      75,
+		"poder" :      75,
 		"defesa" :     50,
 		"Specs" : ""
 	},
 	{
 		"nome" :        "Lavajaptor",
 		"vida" :          85,
-		"ataque" :      120,
+		"poder" :      120,
 		"defesa" :     70,
 		"Specs" : ""
 	},
 	{
 		"nome" :        "Morfinneon",
 		"vida" :          49,
-		"ataque" :      49,
+		"poder" :      49,
 		"defesa" :     56,
 		"Specs": "Pro-erd. Tem chance de dizer não à danos."
 	},
 	{
 		"nome" :        "Crackineon",
 		"vida" :          69,
-		"ataque" :      69,
+		"poder" :      69,
 		"defesa" :     76,
 		"Specs": "Pro-erd. Tem chance de dizer não à danos."
 	},
 	{
 		"nome" :        "Drop-the-Bass",
 		"vida" :          60,
-		"ataque" :      55,
+		"poder" :      55,
 		"defesa" :     145,
 		"Specs":        "Drop the bass. O Reassamon faz o inimigo soltar seu helding item"
 	},
 	{
 		"nome" :        "Skrorllax",
 		"vida" :          160,
-		"ataque" :      110,
+		"poder" :      110,
 		"defesa" :     65,
 		"Specs":        "Drop the bass. O Reassamon faz o inimigo soltar seu helding item"
 	}
