@@ -13,11 +13,11 @@ def batalha(player, wild):
 	fugir = 0
 	opFugir = "x"
 	exp = ((VidaWild*PoderWild*DefesaWild)/(VidaJogador*PoderJogador*DefesaJogador))*10 #Clacula a experiência em jogo nesta rodada
-	dado = input("Escolha um número para jogar na sorte ou 'n' para cancelar: (digite 'wtf' para saber mais)")
+	dado = input("Escolha um número para jogar na sorte ou 'n' para cancelar: (digite 'wtf' para saber mais) ")
 	if(dado == "wtf"):
 		print("O dado funciona assim: Você escolhe o número de lados do seu dado\
-		e, caso tire da metade para cima, seu ataque e vida serão multiplicados pelo valor\
-		que tirastes no dado. Mas, se for da metade para baixo, estes serão DIVIDIDOS pelo valor tirado")
+e, caso tire da metade para cima, seu ataque e vida serão multiplicados pelo valor\
+que tirastes no dado. Mas, se for da metade para baixo, estes serão DIVIDIDOS pelo valor tirado")
 		dado = input("E aí, vai jogar ou 'n'? Qual o número? ")
 
 
@@ -160,6 +160,17 @@ while True: #Rotina básica do Game
 
 
 		batalha(save[1],oponente)
+
+		if(save[0]["xp"] == 0):
+			pass
+		elif(save[0]["xp"] > (save[1]["poder"] + save[1]["poder"])):
+			print('PARABAINS; Seu inspermon evoluiu!')
+			print("Os stats de {0} foram de {1} para {2} de poder, e de {3} para {4} de defesa *-* "\
+				.format(save[1]["nome"],save[1]["poder"],save[1]["poder"]*2,save[1]["defesa"],save[1]["defesa"]*2))
+			save[1]["poder"] += save[1]["poder"]
+			save[1]["defesa"] += save[1]["defesa"]
+
+
 
 
 
